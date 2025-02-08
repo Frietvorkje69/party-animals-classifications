@@ -2,282 +2,282 @@
   "characters": [
     {
       "name": "Bacon",
-      "image": "https://www.spieltimes.io/wp-content/uploads/2023/10/Party-Animals-All-Characters-Outfits-10.webp",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Bacon.png?raw=true",
       "classifications": ["Plant-Eating"]
     },
     {
       "name": "Barbara",
-      "image": "https://example.com/images/barbara.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Barbara.png?raw=true",
       "classifications": []
     },
     {
       "name": "Barbie",
-      "image": "https://static.wikia.nocookie.net/party-animals/images/d/d9/BarbieAvatar.png/revision/latest?cb=20230127124448",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Barbie.png?raw=true",
       "classifications": ["Fluffy", "Plant-Eating"]
     },
     {
       "name": "Bob",
-      "image": "https://example.com/images/bob.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Bob.png?raw=true",
       "classifications": ["Fluffy", "Plant-Eating"]
     },
     {
       "name": "Bruce",
-      "image": "https://example.com/images/bruce.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Bruce.png?raw=true",
       "classifications": ["Diving", "Egg-Laying", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Cabbage Dog",
-      "image": "https://example.com/images/cabbage_dog.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/CabbageDog.png?raw=true",
       "classifications": ["Canines", "Plant-Eating"]
     },
     {
       "name": "Carrot",
-      "image": "https://example.com/images/carrot.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Carrot.png?raw=true",
       "classifications": ["Fluffy", "Plant-Eating"]
     },
     {
       "name": "Coco",
-      "image": "https://example.com/images/coco.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Coco.png?raw=true",
       "classifications": ["Big-Eyed", "Diving", "Egg-Laying", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Curtis",
-      "image": "https://example.com/images/curtis.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Curtis.png?raw=true",
       "classifications": ["Big-Eyed", "Egg-Laying", "Horned", "Long-tailed", "Plant-Eating"]
     },
     {
       "name": "Dodo",
-      "image": "https://example.com/images/dodo.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Dodo.png?raw=true",
       "classifications": ["Big-Eyed", "Egg-Laying", "Plant-Eating"]
     },
     {
       "name": "Dundun",
-      "image": "https://example.com/images/dundun.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Dundun.png?raw=true",
       "classifications": ["Big-Eyed", "Felines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Fluffy",
-      "image": "https://example.com/images/fluffy.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Fluffy.png?raw=true",
       "classifications": ["Canines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Fubao",
-      "image": "https://example.com/images/fubao.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Fubao.png?raw=true",
       "classifications": ["Fluffy", "Plant-Eating"]
     },
     {
       "name": "Fuguee",
-      "image": "https://example.com/images/fuguee.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Fuguee.png?raw=true",
       "classifications": ["Fluffy", "Long-tailed", "Plant-Eating"]
     },
     {
       "name": "Garfat",
-      "image": "https://example.com/images/garfat.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Garfat.png?raw=true",
       "classifications": ["Felines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Googoo",
-      "image": "https://example.com/images/googoo.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Googoo.png?raw=true",
       "classifications": ["Big-Eyed", "Egg-Laying", "Flying", "Long-tailed", "Plant-Eating"]
     },
     {
       "name": "Gopher",
-      "image": "https://example.com/images/gopher.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Gopher.png?raw=true",
       "classifications": ["Fluffy", "Plant-Eating"]
     },
     {
       "name": "Hachi",
-      "image": "https://example.com/images/hachi.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Hachi.png?raw=true",
       "classifications": ["Canines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Hammer",
-      "image": "https://example.com/images/hammer.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Hammer.png?raw=true",
       "classifications": ["Diving", "Egg-Laying", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Harry",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTFk8hMWgSUR9Ewp4ekWW8m0ypgQnUBn7nqsVrk0mVUStt8oJ09BYQoOKclxyr48ZfJXsJ",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Harry.png?raw=true",
       "classifications": ["Big-Eyed", "Diving", "Egg-Laying", "Flying", "Plant-Eating"]
     },
     {
       "name": "Hoot",
-      "image": "https://static.wikia.nocookie.net/party-animals/images/6/6a/Hoot_avatar.png/revision/latest?cb=20250204203719",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Hoot.png?raw=true",
       "classifications": []
     },
     {
       "name": "Kato",
-      "image": "https://example.com/images/kato.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Kato.png?raw=true",
       "classifications": ["Canines", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Kiko",
-      "image": "https://example.com/images/kiko.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Kiko.png?raw=true",
       "classifications": ["Felines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Kola",
-      "image": "https://example.com/images/kola.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Kola.png?raw=true",
       "classifications": ["Fluffy", "Plant-Eating"]
     },
     {
       "name": "Lamar",
-      "image": "https://example.com/images/lamar.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Lamar.png?raw=true",
       "classifications": []
     },
     {
       "name": "Levi",
-      "image": "https://example.com/images/levi.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Levi.png?raw=true",
       "classifications": ["Felines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Lloyd",
-      "image": "https://example.com/images/lloyd.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Lloyd.png?raw=true",
       "classifications": ["Diving", "Egg-Laying", "Flying", "Plant-Eating"]
     },
     {
       "name": "Lotus",
-      "image": "https://example.com/images/lotus.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Lotus.png?raw=true",
       "classifications": ["Big-Eyed", "Diving", "Egg-Laying", "Fluffy", "Flying", "Horned", "Long-tailed"]
     },
     {
       "name": "Lou",
-      "image": "https://example.com/images/lou.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Lou.png?raw=true",
       "classifications": ["Canines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Macchiato",
-      "image": "https://example.com/images/macchiato.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Macchiato.png?raw=true",
       "classifications": ["Felines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Maneki",
-      "image": "https://example.com/images/maneki.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Maneki.png?raw=true",
       "classifications": ["Felines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Max",
-      "image": "https://example.com/images/max.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Max.png?raw=true",
       "classifications": ["Canines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Milky",
-      "image": "https://example.com/images/milky.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Milky.png?raw=true",
       "classifications": []
     },
     {
       "name": "Miu",
-      "image": "https://example.com/images/miu.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Miu.png?raw=true",
       "classifications": ["Felines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Moonmoon",
-      "image": "https://example.com/images/moonmoon.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Moonmoon.png?raw=true",
       "classifications": ["Big-Eyed", "Egg-Laying", "Flying", "Meat-eating"]
     },
     {
       "name": "Morse",
-      "image": "https://example.com/images/morse.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Morse.png?raw=true",
       "classifications": ["Fluffy", "Horned", "Long-tailed", "Plant-Eating"]
     },
     {
       "name": "Naru",
-      "image": "https://example.com/images/naru.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Naru.png?raw=true",
       "classifications": []
     },
     {
       "name": "Nemo",
-      "image": "https://example.com/images/nemo.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Nemo.png?raw=true",
       "classifications": ["Canines", "Fluffy", "Meat-eating"]
     },
     {
       "name": "Om Nom",
-      "image": "https://example.com/images/om_nom.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/OmNom.png?raw=true",
       "classifications": ["Big-Eyed", "Plant-Eating"]
     },
     {
       "name": "Ori",
-      "image": "https://example.com/images/ori.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Ori.png?raw=true",
       "classifications": ["Big-Eyed", "Long-tailed"]
     },
     {
       "name": "Otta",
-      "image": "https://example.com/images/otta.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Otta.png?raw=true",
       "classifications": ["Diving", "Fluffy", "Meat-eating"]
     },
     {
       "name": "Pensky",
-      "image": "https://static.wikia.nocookie.net/party-animals/images/3/34/Pensky_avatar.png/revision/latest?cb=20240617113203",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Pensky.png?raw=true",
       "classifications": ["Big-Eyed", "Canines", "Diving", "Fluffy", "Meat-eating"]
     },
     {
       "name": "Sam",
-      "image": "https://example.com/images/sam.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Sam.png?raw=true",
       "classifications": ["Canines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Shin",
-      "image": "https://example.com/images/shin.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Shin.png?raw=true",
       "classifications": ["Plant-Eating"]
     },
     {
       "name": "Skipper",
-      "image": "https://example.com/images/skipper.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Skipper.png?raw=true",
       "classifications": []
     },
     {
       "name": "Sparky",
-      "image": "https://example.com/images/sparky.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Sparky.png?raw=true",
       "classifications": ["Canines", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Spike",
-      "image": "https://example.com/images/spike.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Spike.png?raw=true",
       "classifications": ["Fluffy", "Meat-eating"]
     },
     {
       "name": "Sunday",
-      "image": "https://example.com/images/sunday.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Sunday.png?raw=true",
       "classifications": ["Felines", "Fluffy", "Meat-eating"]
     },
     {
       "name": "Sunny",
-      "image": "https://example.com/images/sunny.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Sunny.png?raw=true",
       "classifications": ["Canines", "Meat-eating"]
     },
     {
       "name": "The Lamb",
-      "image": "https://example.com/images/the_lamb.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/TheLamb.png?raw=true",
       "classifications": ["Big-Eyed", "Fluffy", "Horned"]
     },
     {
       "name": "Tiagra",
-      "image": "https://example.com/images/tiagra.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Tiagra.png?raw=true",
       "classifications": ["Felines", "Fluffy", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Tuskarr",
-      "image": "https://example.com/images/tuskarr.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Tuskarr.png?raw=true",
       "classifications": ["Diving", "Meat-eating"]
     },
     {
       "name": "Underbite",
-      "image": "https://example.com/images/underbite.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Underbite.png?raw=true",
       "classifications": ["Egg-Laying", "Horned", "Long-tailed", "Meat-eating"]
     },
     {
       "name": "Uni",
-      "image": "https://example.com/images/uni.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Uni.png?raw=true",
       "classifications": ["Flying", "Horned"]
     },
     {
       "name": "Valiente",
-      "image": "https://example.com/images/valiente.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Valiente.png?raw=true",
       "classifications": ["Fluffy", "Horned", "Plant-Eating"]
     },
     {
       "name": "Yurusa",
-      "image": "./characters/Yurusa.png",
+      "image": "https://github.com/Frietvorkje69/party-animals-classifications/blob/master/src/assets/characters/Yurusa.png?raw=true",
       "classifications": ["Flying", "Plant-Eating"]
     }
   ]
