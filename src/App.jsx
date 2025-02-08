@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import characterData from './data/characters.json'; // Assuming you are importing the characters data
+import characterData from './data/characters.json';
 
 function App() {
     const [selectedClasses, setSelectedClasses] = useState([]);
@@ -42,17 +42,17 @@ function App() {
             <div className="card-grid">
                 {filteredCharacters.map((character, index) => (
                     <div className="card" key={index}>
-                        <div className="card-info">
-                            <h3>{character.name}</h3>
-                        </div>
                         <img src={character.image} alt={character.name} className="card-image" />
-                        <div className="tags">
-                            {character.classifications.length === 0
-                                ? <span className="tag">No classifications</span>
-                                : character.classifications.map((cls, index) => (
-                                    <span className="tag" key={index}>{cls}</span>
-                                ))
-                            }
+                        <div className="card-overlay">
+                            <h3 className="card-title">{character.name}</h3>
+                            <div className="tags">
+                                {character.classifications.length === 0
+                                    ? <span className="tag">No classifications</span>
+                                    : character.classifications.map((cls, index) => (
+                                        <span className="tag" key={index}>{cls}</span>
+                                    ))
+                                }
+                            </div>
                         </div>
                     </div>
                 ))}
